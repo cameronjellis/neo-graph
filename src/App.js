@@ -1,11 +1,9 @@
-import './App.css';
-import React  from 'react';
-import BrowserLayout from './modules/BrowserLayout'
+import "./App.css";
+import React from "react";
+import BrowserLayout from "./modules/BrowserLayout";
 
 function App() {
-  return (
-        <BrowserLayout />
-  );
+  return <BrowserLayout />;
 }
 
 export default App;

@@ -10,6 +10,7 @@
 #inner-row-1 {
   height:50vh;
   max-height:50vh;
+  min-height: 250px;
 }
 #inner-row-2 {
   height:20vh;
@@ -128,7 +129,7 @@ h3, .row-header {
   border:solid 1px darkgray;
   background: lightgray;
   width:75px !important;
-  min-height:500px;
+  height:100%;
 }
 
 .pretty-json {
